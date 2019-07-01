@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5c664e57-cbd2-4ad4-94ae-880241f8f784" name="amjad@dswa100-dca1:22" url="http:///">
+        <fileTransfer host="dswa100-dca1" port="22" rootFolder="/mnt/cephfs/hadoop-compute/phoenix/amjad" accessType="SFTP" authAgent="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
